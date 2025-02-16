@@ -24,9 +24,9 @@ We sincerely thank the GOT-10k dataset for providing the clean video sources use
 
 ```
 @article{GOT-10k,
-  title={Got-10k: A large high-diversity benchmark for generic object tracking in the wild},
+  title={Got-10k: A Large High-diversity Benchmark for Generic Object Tracking in the Wild},
   author={Huang, Lianghua and Zhao, Xin and Huang, Kaiqi},
-  journal={IEEE transactions on pattern analysis and machine intelligence},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   volume={43},
   number={5},
   pages={1562--1577},
@@ -48,7 +48,6 @@ year={2024},
 volume={34},
 number={9},
 pages={8562-8575},
-keywords={Transformers;Image restoration;Image color analysis;Correlation;Cameras;Visual analytics;Spatiotemporal phenomena;Visual analytics;Image restoration;video demoiréing;video restoration;spatio-temporal network;sparse transformer},
-doi={10.1109/TCSVT.2024.3386604}}
+}
 ```
 
