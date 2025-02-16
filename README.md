@@ -4,7 +4,7 @@
 
 LVDM is introduced in our paper **“STD-Net: Spatio-Temporal Decomposition Network for Video Demoiréing with Sparse Transformers”**, published in *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)* *2024*. In this paper, we also provide both experimental and theoretical proof of the sparsity of moiré patterns, which can be found in the supplementary materials.
 
-LVDM is available for download via [Baidu Netdisk](https://pan.baidu.com/s/1zrwacxO_TUWtvPx927PxYA?pwd=27ym), offering access to both the **full dataset** （~30G）and its **decomposed components** (including ~27 GB for the training set and ~2G for the testing set).
+LVDM is available for download via [Baidu Netdisk](https://pan.baidu.com/s/1zrwacxO_TUWtvPx927PxYA?pwd=27ym), offering access to both the **full dataset** （~30G）and its **separated subsets** (including ~27 GB for the training set and ~2G for the testing set).
 
 ## Overview
 
