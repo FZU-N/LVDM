@@ -20,7 +20,7 @@ The image below illustrates sample frames from LVDM. Each row represents three a
 
 ## Citation
 
-We sincerely thank the GOT-10k dataset for providing the clean video sources used in LVDM.
+We sincerely thank the GOT-10k dataset for providing the clean video sources used in LVDM. For any commercial use, please reach out to them for permission.
 
 ```
 @article{GOT-10k,
